@@ -7,8 +7,7 @@
    It's provided as a learning tool.
 
    This code is provided to show how to control the SparkFun
-   ProMicro's TX and RX LEDs within a sketch. It alInput 10
-   so serves
+   ProMicro's TX and RX LEDs within a sketch. It also serves
    to explain the difference between Serial.print() and
    Serial1.print().
 */
