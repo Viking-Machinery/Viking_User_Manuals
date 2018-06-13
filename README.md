@@ -1,2 +1,2 @@
-# Unbrick-the-Arduino-Pro-Micro
-This repository is where the tools we use to Unbrick the Arduino Pro Micro
+# User Manuals
+This repository is where we keep our user manuals, wiring diagrams and instructions
